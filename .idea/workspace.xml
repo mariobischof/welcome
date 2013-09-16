@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02bc4726-4c3c-4fa0-94e6-a531caeef3c5" name="Default" comment="" />
+    <list default="true" id="02bc4726-4c3c-4fa0-94e6-a531caeef3c5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/posts/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/posts/edit.html.erb" />
+    </list>
     <ignored path="welcome.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/welcome_controller.rb" changelist="02bc4726-4c3c-4fa0-94e6-a531caeef3c5" time="1379162819247" ignored="false" />
@@ -9,7 +11,7 @@
     <file path="/routes.rb" changelist="02bc4726-4c3c-4fa0-94e6-a531caeef3c5" time="1379327800118" ignored="false" />
     <file path="/posts_controller.rb" changelist="02bc4726-4c3c-4fa0-94e6-a531caeef3c5" time="1379327449353" ignored="false" />
     <file path="/Dummy.txt" changelist="02bc4726-4c3c-4fa0-94e6-a531caeef3c5" time="1379331684556" ignored="false" />
-    <file path="/edit.html.erb" changelist="02bc4726-4c3c-4fa0-94e6-a531caeef3c5" time="1379329222649" ignored="false" />
+    <file path="/edit.html.erb" changelist="02bc4726-4c3c-4fa0-94e6-a531caeef3c5" time="1379332578441" ignored="false" />
     <file path="$PROJECT_DIR$/db/schema.rb" changelist="02bc4726-4c3c-4fa0-94e6-a531caeef3c5" time="1379328370911" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +40,7 @@
       <file leaf-file-name="edit.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/posts/edit.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="65" selection-start="543" selection-end="543" vertical-scroll-proportion="0.5502392">
+            <state line="31" column="24" selection-start="645" selection-end="645" vertical-scroll-proportion="0.7416268">
               <folding />
             </state>
           </provider>
@@ -605,14 +607,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="22" width="1433" height="790" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.02020202" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294881" sideWeight="0.97979796" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24945927" sideWeight="0.6695527" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24369141" sideWeight="0.97979796" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24369141" sideWeight="0.97979796" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -769,7 +771,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="65" selection-start="543" selection-end="543" vertical-scroll-proportion="0.5502392">
+        <state line="31" column="24" selection-start="645" selection-end="645" vertical-scroll-proportion="0.7416268">
           <folding />
         </state>
       </provider>
